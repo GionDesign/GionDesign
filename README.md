@@ -1,6 +1,14 @@
 ### Hi there 👋
 I'm a Web Developer based in Melbourne, Australia
 
+### You can find more or my content at:
+
+https://gitlab.com/GionDesign
+
+And also my profile page:
+
+https://pascalcouturier.com.au
+
 <!--
 **GionDesign/GionDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
