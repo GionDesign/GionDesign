@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Web Developer based in Melbourne, Australia
 
-### You can find more or my content at:
+### You can find more of my content at:
 
 https://gitlab.com/GionDesign
 
