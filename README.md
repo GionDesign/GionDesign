@@ -5,7 +5,11 @@ I'm a Web Developer based in Melbourne, Australia
 
 https://gitlab.com/GionDesign
 
-And also my profile page:
+And
+
+https://github.com/GionDesigns
+
+As well as my profile page:
 
 https://pascalcouturier.com.au
 
