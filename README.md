@@ -11,7 +11,7 @@ https://github.com/GionDesigns
 
 As well as my profile page:
 
-https://pascalcouturier.com.au
+https://pascalcouturier.com
 
 <!--
 **GionDesign/GionDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
